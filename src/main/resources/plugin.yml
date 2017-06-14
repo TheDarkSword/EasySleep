@@ -1,0 +1,6 @@
+name: EasySleep
+version: 1.0
+author: LoreSchaeffer
+main: it.mineblock.easysleep.Main
+description: Sleep like in singleplayer
+depend: [MBCore]
