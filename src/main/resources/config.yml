@@ -1,0 +1,8 @@
+needed-percentage: 0.5
+
+message:
+  good-morning: "&eGood morning folks! The sun shines and the parrots sing!"
+  sleep-missing: "&b{player} went to sleep, sleeping ({sleeping}/{online}). Missing {missing} to skip night!"
+  leave-missing: "&b{player} left the bed, sleeping ({sleeping}/{online}). Missing {missing} to skip night!"
+  sleep-skip: "&b{player} went to sleep, sleeping ({sleeping}/{online}). Skipping night!"
+  leave-skip: "&b{player} left the bed, sleeping ({sleeping}/{online}). Skipping night!"
