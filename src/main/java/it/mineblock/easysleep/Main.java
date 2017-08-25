@@ -3,7 +3,7 @@ package it.mineblock.easysleep;
 import it.mineblock.mbcore.Chat;
 import it.mineblock.mbcore.spigot.Config;
 import org.bukkit.Bukkit;
-import org.bukkit.configuration.Configuration;
+import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -18,7 +18,7 @@ import java.util.ArrayList;
  */
 public class Main extends JavaPlugin {
 
-    public static Configuration config;
+    public static FileConfiguration config;
     public static ArrayList<Player> sleepingPlayers = new ArrayList<>();
 
     private static Config configuration = Config.getInstance();
